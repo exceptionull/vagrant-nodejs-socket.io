@@ -1,0 +1,16 @@
+{
+  "name": "vagrant-nodejs-socket.io",
+  "version": "0.1.0",
+  "description": "vagrant-nodejs-socket.io base setup",
+  "dependencies": {
+    "socket.io": "0.9.*"
+  },
+  "devDependencies": {
+  },
+  "contributors": [
+    {
+      "name": "Brad Cannon",
+      "email": "gadnium@gmail.com"
+    }
+  ]
+}
